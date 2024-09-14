@@ -7,7 +7,7 @@ whitelist-spring-boot-starter-test
 └── src
     └── main
         └── java
-            ├── cn.bugstack.middleware.whitelist.test
+            ├── cn.gosilver.middleware.whitelist.test
             │   ├── interfaces
             │   │   ├── UserController.java
             │   │   └── UserInfo.java
