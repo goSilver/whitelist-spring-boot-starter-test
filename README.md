@@ -38,7 +38,7 @@ server:
 # 白名单用户
 gosilver:
   whitelist:
-    users: aaa,111,xiaofuge
+    users: aaa,bbb,ccc
 
 ```
 以上的这种配置方式只是基于本地的配置，并没有服务端注册中心那种方式。
