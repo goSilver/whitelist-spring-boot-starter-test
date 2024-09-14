@@ -1,4 +1,6 @@
 # 白名单组件测试工程
+主项目工程：https://github.com/goSilver/whitelist-spring-boot-starter
+
 ## 一、工程结构
 ```java
 whitelist-spring-boot-starter-test
